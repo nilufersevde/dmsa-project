@@ -1,0 +1,16 @@
+# Never track patient data
+Dmsa Hastaları/
+*.dcm
+
+# For now, also ignore all PNGs generated from real data
+*.png
+
+# Common Python ignored files
+config_local.py
+__pycache__/
+*.pyc
+.env
+.venv
+*.dcm
+*.png
+
